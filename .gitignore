@@ -1,0 +1,8 @@
+# Ignore environment variable file
+.env
+
+# Node modules (large dependency folder)
+node_modules/
+
+# Optional: Ignore build/dist folders if using bundlers
+dist/
